@@ -1,2 +1,2 @@
 # ActivityPicker
-Picks for us
+Picks for us!
