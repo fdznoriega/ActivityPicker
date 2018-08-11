@@ -5,7 +5,7 @@ public class Picker {
 	public static void main(String[] args) {
 		//Make scanner and ask for input
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Please input an option\nActivity - 1\nRestaurant - 2\nExit - 3");
+		System.out.println("Please input an option\n1 - Activity\n2 - Restaurant\n3 - Exit");
 		
 		//Set flag
 		boolean flag = true;
