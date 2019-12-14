@@ -1,2 +1,2 @@
 # ActivityPicker
-Picks for us!
+Quick write up intended to suggest what to do.
